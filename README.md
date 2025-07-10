@@ -43,7 +43,7 @@ This project was built as part of a web development course focusing on:
 
 ## 🚀 Live Demo
 
-**[Visit Sydney - Live Site](https://your-site-name.netlify.app)**
+**[Visit Sydney - Live Site](https://visit-sydney.netlify.app/)**
 
 *Deployed on Netlify for fast, reliable hosting*
 
@@ -53,6 +53,8 @@ This project was built as part of a web development course focusing on:
 visit-sydney/
 ├── index.html
 ├── styles.css
+├── package.json
+├── vite.config.js
 ├── images/
 │   ├── Sydney.gif
 │   ├── silhouette.jpg
